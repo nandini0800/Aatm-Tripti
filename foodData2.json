@@ -1,0 +1,448 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Lemon rice",
+        "img": "https://shop.bangonmag.com/wp-content/uploads/2020/04/e059a036-54dc-45df-9e4f-f61cb8a4c59d.jpeg",
+        "options": [
+            {
+                "half": "60",
+                "full": "100"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "80",
+                "full": "120"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmVnJTIwZnJpZWQlMjByaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "60",
+                "full": "110"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Fish Biryani",
+        "img": "https://media.istockphoto.com/photos/king-fish-biryani-with-raita-served-in-a-golden-dish-isolated-on-dark-picture-id1409942571?b=1&k=20&m=1409942571&s=170667a&w=0&h=ozlMJf5hsDmS2sSdEdBWnoSZOEITef4qGMeWeq2lyTc=",
+        "options": [
+            {
+                "half": "100",
+                "full": "180"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Biryani",
+        "img": "https://cdn.pixabay.com/photo/2019/11/04/12/16/rice-4601049__340.jpg",
+        "options": [
+            {
+                "half": "90",
+                "full": "150"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Biryani",
+        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
+        "options": [
+            {
+                "half": "70",
+                "full": "130"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Cutting Chai",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d1/5d/94/kulhad-chai.jpg",
+        "options": [
+            {
+                "half": "10",
+                "full": "10"
+            }
+        ],
+        "description": "."
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Masala Chai",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d1/5d/94/kulhad-chai.jpg",
+        "options": [
+            {
+                "half": "15",
+                "full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Adrak Chai",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d1/5d/94/kulhad-chai.jpg",
+        "options": [
+            {
+                "half": "15",
+                "full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Coke",
+        "img": "https://5.imimg.com/data5/MM/BT/OD/SELLER-48652903/glass-bottels-200-ml-coke-thums-up-limca-sprite-fanta-500x500.jpg",
+        "options": [
+            {
+                "half": "20",
+                "full": "20"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Shikanji",
+        "img": "https://media.currylives.com/2020/06/shikanji.jpeg",
+        "options": [
+            {
+                "regular": "10",
+                "medium": "15",
+                "large": "20"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Mango juice",
+        "img": "https://5.imimg.com/data5/XT/SR/BW/SELLER-42430332/mango-juice-500x500.jpg",
+        "options": [
+            {
+                "regular": "30",
+                "medium": "40",
+                "large": "50"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Mix fruit juice",
+        "img": "https://juicenmore.in/wp-content/uploads/2020/09/3.jpg",
+        "options": [
+            {
+                "regular": "30",
+                "medium": "40",
+                "large": "50"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Anaar juice",
+        "img": "https://4.imimg.com/data4/HS/XT/MY-18342795/pomegranate-juice-500x500.jpg",
+        "options": [
+            {
+                "regular": "40",
+                "medium": "50",
+                "large": "60"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Mausami juice",
+        "img": "https://new-img.patrika.com/upload/2022/05/06/mosambi_juice_benefits_1.jpg",
+        "options": [
+            {
+                "regular": "30",
+                "medium": "40",
+                "large": "50"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Ganne ka juice",
+        "img": "https://assets.lybrate.com/q_auto:eco,f_auto,w_1200,h_720,c_fill,g_auto/imgs/product/health-wiki/bpages/Benefits-of-Sugarcane-Juice.jpg",
+        "options": [
+            {
+                "regular": "30",
+                "medium": "40",
+                "large": "50"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Pineapple juice",
+        "img": "https://thumbs.dreamstime.com/z/glass-pineapple-juice-pineapple-fruit-glass-pineapple-juice-pineapple-fruit-isolated-white-background-186339012.jpg",
+        "options": [
+            {
+                "regular": "40",
+                "medium": "50",
+                "large": "60"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Beetroot juice",
+        "img": "https://images.immediate.co.uk/production/volatile/sites/2/2020/07/OLI0820-Healthy-BeetrootGingerJuice_05293_preview-ef741ed.jpg",
+        "options": [
+            {
+                "regular": "40",
+                "medium": "50",
+                "large": "60"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Oreo shake",
+        "img": "https://thumbs.dreamstime.com/b/cloae-up-view-oreo-cookie-top-oreo-shake-cooling-drinks-local-coffee-shop-oreo-shake-close-up-165778195.jpg",
+        "options": [
+            {
+                "regular": "60",
+                "medium": "70",
+                "large": "80"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Banana shake",
+        "img": "https://4.imimg.com/data4/BW/AP/GLADMIN-182155/banana-milkshake-500x500.jpg",
+        "options": [
+            {
+                "regular": "50",
+                "medium": "60",
+                "large": "70"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Mango shake",
+        "img": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2018/05/09211532/SagarChaats2.jpg",
+        "options": [
+            {
+                "regular": "60",
+                "medium": "70",
+                "large": "80"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Chocolate shake",
+        "img": "https://i.ytimg.com/vi/BMu-SktTQD0/maxresdefault.jpg",
+        "options": [
+            {
+                "regular": "50",
+                "medium": "60",
+                "large": "70"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Strawberry shake",
+        "img": "https://i.ytimg.com/vi/4A8zNSiwBJs/maxresdefault.jpg",
+        "options": [
+            {
+                "regular": "50",
+                "medium": "60",
+                "large": "70"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Drinks",
+        "name": "Grapes milkshake",
+        "img": "https://1.bp.blogspot.com/-exAs20CvFGY/XMAjn0vssHI/AAAAAAAAHck/St2edOxX48s88SRtLDHdrXURhpA5lQfZgCLcBGAs/s1600/IMG_1193.jpg",
+        "options": [
+            {
+                "regular": "50",
+                "medium": "60",
+                "large": "70"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Maggi",
+        "name": "Plain maggi",
+        "img": "https://cdn.tarladalal.com/members/9306/procstepimgs/masala-maggi-(21)-20-187621.jpg",
+        "options": [
+            {
+                "half": "10",
+                "full": "20"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Maggi",
+        "name": "Pyaaz maggi",
+        "img": "https://cdn.tarladalal.com/members/9306/procstepimgs/masala-maggi-(21)-20-187621.jpg",
+        "options": [
+            {
+                "half": "15",
+                "full": "30"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Maggi",
+        "name": "Veg maggi",
+        "img": "https://cdn.tarladalal.com/members/9306/procstepimgs/masala-maggi-(21)-20-187621.jpg",
+        "options": [
+            {
+                "half": "15",
+                "full": "20"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Maggi",
+        "name": "Egg maggi",
+        "img": "https://www.indianrecipeinfo.com/wp-content/uploads/2020/09/Egg-Maggi.jpg",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Maggi",
+        "name": "Cheese maggi",
+        "img": "https://3.bp.blogspot.com/-7X6al5ka6gw/XFuwJk24i_I/AAAAAAAAGzo/YmY8RLOcjhkY4GcnbbUQOHcFZkPkb-ECwCLcBGAs/w1200-h630-p-k-no-nu/IMG_8812.JPG",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Maggi",
+        "name": "Chowmein",
+        "img": "https://c.ndtvimg.com/2019-12/0geoj8lg_chowmein_625x300_05_December_19.jpg",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Aloo parantha",
+        "img": "https://5.imimg.com/data5/JR/GX/MY-10256412/frozen-aloo-paratha-500x500.jpg",
+        "options": [
+            {
+                "half": "15",
+                "full": "30"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Paneer parantha",
+        "img": "https://i.ytimg.com/vi/yVQSZAlQ2KU/maxresdefault.jpg",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Gobhi parantha",
+        "img": "https://www.zaykakatadka.com/wp-content/uploads/2016/10/IMG-20161011-WA0095.jpg",
+        "options": [
+            {
+                "half": "15",
+                "full": "30"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Mix veg parantha",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Pooja_Thakur/Mixed_Vegetable_Parantha.jpg",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Pyaaz parantha",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/onion-paratha-recipe-1-500x375.jpg",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Aloo pyaaz parantha",
+        "img": "https://i.pinimg.com/736x/ac/da/9d/acda9db3a8e966871fc54c6ad3a19898.jpg",
+        "options": [
+            {
+                "half": "25",
+                "full": "50"
+            }
+        ],
+        "description": ""
+    }
+]
